@@ -82,5 +82,3 @@ This code is provided for educational and informational purposes only. Trading i
 -   Backtesting and simulation framework.
 -   Logging and reporting improvements.
 -   Support for more complex options strategies.
-
-
